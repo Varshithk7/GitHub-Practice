@@ -1,4 +1,4 @@
 # GitHub-Practice
 Learning GitHub
 <br>
-Author - Varshith
+Author - Varshith Konda
